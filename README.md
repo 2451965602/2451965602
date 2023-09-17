@@ -1,6 +1,6 @@
 ### Hello Friends 👋
 
-Java、Go、Python、Javascript
+Java、Go、Python
 
 📃[Go to my blog site](https://blog.yourang.top)
 
