@@ -1,4 +1,8 @@
 {
-    "name": "netcup",
-    "address": "https://sidestore.yourang.top"
+  "servers": [
+    {
+      "address": "https://sidestore.yourang.top",
+      "name": "netcup"
+    }
+  ]
 }
